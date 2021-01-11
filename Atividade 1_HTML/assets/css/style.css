@@ -1,0 +1,14 @@
+/*Estilos da página index.html */
+.center {
+    text-align: justify;
+    font-size: 20pt;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+
+
+/*Estilos da página contato.html*/
